@@ -3,6 +3,7 @@
     "fuse-bindings": "latest",
     "md5": "latest",
     "fs-extra": "latest",
-    "usb-detection": "latest"
+    "usb-detection": "latest",
+    "async": "latest"
   }
 }
